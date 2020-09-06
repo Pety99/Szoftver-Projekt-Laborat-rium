@@ -1,0 +1,2 @@
+JatekosTest jt create
+JatekosTest jt kihuzTest

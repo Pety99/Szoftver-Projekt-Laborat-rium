@@ -1,0 +1,2 @@
+JatekosTest jt create
+JatekosTest jt vizsgalTest String jobb

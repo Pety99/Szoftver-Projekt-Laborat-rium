@@ -1,0 +1,2 @@
+PalyaTest pt create
+PalyaTest pt jatekTest

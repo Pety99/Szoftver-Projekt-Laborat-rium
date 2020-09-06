@@ -1,0 +1,9 @@
+JatekosTest jt create
+JatekosTest jt lep String Jobb
+JatekosTest jt lep String Bal
+JatekosTest jt lep String Fel
+JatekosTest jt lep String Le
+JatekosTest jt lep String JobbFel
+JatekosTest jt lep String JobbBal
+JatekosTest jt lep String BalFel
+JatekosTest jt lep String BalLe
